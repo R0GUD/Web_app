@@ -39,3 +39,27 @@ font-size: 16px;
     margin-right: 6px;
     vertical-align: middle;
 }
+section{
+width: 80%;
+margin: auto;
+}
+.promo{
+    background: #FFF1B8 url(../Images/promo-image2.png) no-repeat top 50px right -100px / 500px;
+    border-radius: 10px;
+    padding: 30px 50px;
+}
+.promo-title{
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 39px;
+line-height: 46px;
+}
+.promo-text{
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 28px;
+color: #302C34;
+}
